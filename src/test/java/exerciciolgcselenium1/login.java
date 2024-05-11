@@ -49,6 +49,7 @@ public class login {
 			
 			Assert.assertTrue(fullName.equals("BRUNO NASCIMENTO DE FIGUEIREDO"));
 			
+			// linha para fazer alguma task
 			
 		} finally {
 			driver.quit();
